@@ -1,4 +1,4 @@
-# Workshop Comptext 2024 - Introduction to Text Analysis in R
+# Workshop Comptext 2024 - Introduction to Computational Text Analysis in R
 
 This repository summarizes the Workshop "Introduction to Text Analysis in R" which took place the 6th Annual COMPTEXT at the Vrije Universiteit Amsterdam. 
 The workshop introduced the attendees to basic concepts that are relevent to analyze text quantitatively using the programming language R.
